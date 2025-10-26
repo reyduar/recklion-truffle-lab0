@@ -107,6 +107,9 @@ module.exports = {
   mocha: {
     // timeout: 100000
   },
+  dashboard: {
+    port: 24012,
+  },
 
   // Configure your compilers
   compilers: {
